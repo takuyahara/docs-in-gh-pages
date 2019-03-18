@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "src/index.tsx",
+    "src/serviceWorker.ts",
+    "src/**/*.test.tsx"
+  ]
+}
